@@ -1,0 +1,8 @@
+package inheritance;
+
+ class A {
+	public static void main(String[] args) {
+		final int a=39;
+	}
+
+}
